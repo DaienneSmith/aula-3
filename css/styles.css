@@ -1,0 +1,19 @@
+*{
+    margin:0%;
+    padding:0;
+}
+
+header#cabecalho{
+    width: 100%;
+    height: 200px;
+    background-color:rgb(48, 0, 0)
+}
+header#cabecalho img#logo{
+    display:block; /*colocar em bloco primeiro*/
+    margin:auto; /*para centralizar*/
+}
+nav#menu{
+    width: 100%;
+    height: 30px;
+    background-color: darkmagenta;
+}
