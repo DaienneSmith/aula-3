@@ -5,7 +5,7 @@
 
 header#cabecalho{
     width: 100%;
-    height: 200px;
+    height: 200px;/*altura*/
     background-color:rgb(48, 0, 0)
 }
 header#cabecalho img#logo{
@@ -13,7 +13,18 @@ header#cabecalho img#logo{
     margin:auto; /*para centralizar*/
 }
 nav#menu{
+    width: 100%; /*largura*/
+    height: 30px; /*altura*/
+    background-color: rgb(116, 0, 29);
+}
+article{
     width: 100%;
-    height: 30px;
-    background-color: darkmagenta;
+    height: 100%;   
+}
+section#container{
+    width: 1200px;
+    height: 3000px;
+    border: 1px solid red;
+    margin: auto; /*para centralizar o bloco*/
+    margin-top: 40px;
 }
