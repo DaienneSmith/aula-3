@@ -66,3 +66,13 @@ section#container ol{
     margin-bottom: 20px;
     color:#2e0502
 }
+footer#rodape{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 100%; /*largura do bloco*/
+    height: auto; /*altura do bloco*/
+    background-color:rgb(48, 0, 0); /*cor do bloco*/
+    color: aliceblue; /*cor da letra*/
+    padding-top:15px; /*espaço cima dentro do bloco*/
+    padding-bottom: 15px; /*espaço baixo dentro do bloco*/
+    text-align: center; /*centralizar texto*/
+}
