@@ -16,20 +16,20 @@ section.container div#blocoinvi div#textodoutora p{
 section.container div#blocoinvi{
     width: 1200px;
     height: 430px;
-    background-color: red;
+    /*background-color: red;*/
     margin-top: 30px;
 }
 
 section.container div#blocoinvi div#fotodoutora{
     width: 400px;
     height:430px;
-    background-color: blueviolet;
+    /*background-color: blueviolet;*/
     float: left;
 }
 section.container div#blocoinvi div#textodoutora{
-    width: 00px;
+    width: 800px;
     height:430px;
-    background-color:greenyellow;
+    /*background-color:greenyellow;*/
     float: right;
 
 }
