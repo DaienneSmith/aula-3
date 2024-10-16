@@ -15,18 +15,27 @@ section.container p{
 section.container div#bloco2{
     width: 1200px;
     height: 400px;
-    background-color: red;
+    /*background-color: red;*/
     margin-top: 30px;
 }
 section.container div#bloco2 div#box1{
     width: 400px;
     height: 400px;
-    background-color: blueviolet;
+   /* background-color: blueviolet;*/
     float: left;
 }
 section.container div#bloco2 div#box2{
     width: 760px;
     height: 400px;
-    background-color: chartreuse;
+    /*background-color: chartreuse;*/
     float: right;
+}
+
+section.container div#bloco2 div#box2 h2{
+    font-size: 26px;
+    color:#1E1E1E;
+    font-family: monospace;
+    font-weight: 400;
+    margin-top: 65px;
+
 }
